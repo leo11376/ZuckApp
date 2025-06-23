@@ -7,3 +7,4 @@ Foss whatsapp client for Android
 // drop an unused branch
 // match the style used in the rest of the module
 // drop an unused branch
+// handle the edge case from the last release
