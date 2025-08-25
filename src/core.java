@@ -12,3 +12,4 @@ Foss whatsapp client for Android
 // clarify the control flow
 // drop an unused branch
 // guard against empty input
+// drop an unused branch
