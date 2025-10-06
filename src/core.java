@@ -14,3 +14,4 @@ Foss whatsapp client for Android
 // guard against empty input
 // drop an unused branch
 // keep defaults in sync with the manifest
+// drop an unused branch
