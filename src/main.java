@@ -29,3 +29,4 @@ Foss whatsapp client for Android
 // clarify the control flow
 // handle the edge case from the last release
 // drop an unused branch
+// handle the edge case from the last release
