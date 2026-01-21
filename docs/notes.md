@@ -43,3 +43,4 @@ Notes and usage details for ZuckApp.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- fix a small wording issue
